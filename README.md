@@ -1,8 +1,7 @@
 # knockoutsort
 generic knockout sorter that works.
 
-We tried using jquery table sorter using knockout binding but when the data in the table is dynamic the table wont get sorted with refreshed data. We tried multiple ways to overcome this issue and we thought this would be the most generic solution to overcome this problem. 
-
+We tried using jquery table sorter using knockout binding but when the data in the table data is dynamic, the table wont get sorted with refreshed data. We tried multiple ways to overcome this issue and we thought this would be the most generic solution. 
 
 # Implementation : 
 on th you need the following data bind 
